@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <!-- Triangle 1 -->
+  <polygon points="128,20 36,90 128,160 220,90" fill="#4285F4" />
+  <!-- Triangle 2 -->
+  <polygon points="36,90 128,20 76,200" fill="#34A853" />
+  <!-- Triangle 3 -->
+  <polygon points="128,160 36,90 76,200" fill="#FBBC04" />
+  <!-- Inner Triangle -->
+  <polygon points="128,160 76,200 180,200" fill="#EA4335" />
+</svg>
